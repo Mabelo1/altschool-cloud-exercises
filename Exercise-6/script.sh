@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-mail=michaelagbia1990@gmail.com
+mail=meldoze@hotmail.com
 path=memory.log
 
 date >> ${path}
